@@ -10,4 +10,4 @@ Bitcoin Exchange Rates / EUR: 1994.63€ / USD: 2230.13$
 ```
 
 
-Command to put in ~/.bashrc or /etc/.bashrc
+Command to put in ~/.profile or /etc/profile file
