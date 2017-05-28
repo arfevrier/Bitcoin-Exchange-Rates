@@ -9,4 +9,5 @@ Result:
 Bitcoin Exchange Rates / EUR: 1994.63€ / USD: 2230.13$
 ```
 
-Display the bitcoin exchange rates when log into UNIX
+
+Command to put in ~/.bashrc or /etc/.bashrc
